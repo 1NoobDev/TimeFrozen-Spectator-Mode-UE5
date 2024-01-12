@@ -17,6 +17,8 @@ The Custom Spectator Pawn is an Unreal Engine feature that allows players to tog
 - **Global Time Dilation**: Can be set in the editor under the `PlayerSpectatorSwitchComponent` properties. This value determines the overall speed of the game world when in spectator mode.
 - **Custom Time Dilation**: Also set in the editor under the `PlayerSpectatorSwitchComponent` properties. This value affects the spectator pawn's perception of time and can be dynamically adjusted with the mouse wheel during gameplay.
 
+![PlayerSpectatorSwitch Component inside the PlayerController, with settings for adjusting timescale values](image.png)
+
 ## Integration
 
 To integrate the Custom Spectator Pawn into your Unreal Engine project, ensure the following components and settings are configured:
