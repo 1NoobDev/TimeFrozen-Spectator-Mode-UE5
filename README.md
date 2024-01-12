@@ -25,7 +25,7 @@ To integrate the Custom Spectator Pawn into your Unreal Engine project, ensure t
 
 ### PlayerSpectatorSwitchComponent
 
-- Attach this component to the player character to enable the ability to toggle spectator mode.
+- Attach this component to the player controller to enable the ability to toggle spectator mode.
 - Bind an input action named `ToggleSpectatorMode` to allow players to switch modes at runtime.
 
 ### CustomSpectatorPawn
